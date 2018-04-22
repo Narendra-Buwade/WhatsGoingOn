@@ -24,8 +24,8 @@
     WhatsApp may throttle your calls to them or even ban your account, so don't use this with your main mobile number to be safe.
 
 */
-var userA = 353851234567;
-var userB = 353857654321;
+var userA = +919686629904;
+var userB = +919406939298;
 var tenSeconds = 10000;
 var tenMinutes = 600000;
 
